@@ -14,7 +14,7 @@ Este é um sistema de Gerenciamento de Tarefas (To-Do List) em Python, criado pa
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/task-manager.git
+   git clone [link]
    cd task-manager
 
 # Instalando o venv
