@@ -16,3 +16,11 @@ Este é um sistema de Gerenciamento de Tarefas (To-Do List) em Python, criado pa
    ```bash
    git clone https://github.com/seu-usuario/task-manager.git
    cd task-manager
+
+# Instalando o venv
+   python -m venv venv
+   venv\Scripts\activate
+
+   git add . 
+   git commit -m "Initial commit with project structure"
+   git checkout -b add task-feature
